@@ -1,3 +1,5 @@
-# Assignment 1
+# Operator System
 
-You will find instructions for this assignment on the course website.
+This is a file system for storing the activities available in different locations around NZ. You search the files based off location, name, reviews.
+
+[text based][Java]
